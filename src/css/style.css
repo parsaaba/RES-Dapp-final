@@ -1,0 +1,54 @@
+.container {
+    margin-left:2%;
+    margin-right: 2%;
+    padding-left: 0;
+    padding-right: 0;
+    max-width: -webkit-fill-available;
+}
+
+.header {
+    background-color: #2b51a1;
+    color: rgb(238, 238, 238);
+    border:1px solid #2b2b2b;
+    border-radius: 10px;
+    padding: 0 15px 15px 15px;
+    margin-bottom: 10px;
+    margin-left: -15px;
+    width: 100.5%;
+    overflow: auto;
+}
+
+.forms {
+    background-color: rgb(240, 241, 243);
+    color: rgb(22, 22, 22);
+    border:1px solid #bebebe;
+    border-radius: 10px;
+    padding: 0 15px 15px 15px;
+    margin-bottom: 20px;
+    width: 48%;
+    float: left;
+}
+
+.right {
+    margin-left:2%;
+}
+
+.card {
+    font-size: 12px;
+    border: 1px dashed #3f3f3f;
+    background-color: rgb(240, 241, 243);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.assetList {
+    background-color: #d88b8b42;
+    color: rgb(15, 15, 15);
+    border:1px solid #2b2b2b;
+    border-radius: 10px;
+    padding: 0 15px 15px 15px;
+    margin-bottom: 50px;
+    width: 98.5%;
+    overflow: auto;
+}
